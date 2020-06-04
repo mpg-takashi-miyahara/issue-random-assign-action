@@ -2,7 +2,7 @@ name: 'Auto Issue Assign'
 
 on:
   issues:
-    types: created
+    types: opened
 
 jobs:
   add-reviews:
