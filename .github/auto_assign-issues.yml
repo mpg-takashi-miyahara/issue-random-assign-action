@@ -1,0 +1,14 @@
+addAssignees: true
+
+assignees:
+  - mpg-takashi-miyahara
+
+numberOfAssignees: 0
+
+filterLabels:
+  # Run
+  include:
+    - flaky test
+  # Not run
+  # exclude:
+  #   - wip
